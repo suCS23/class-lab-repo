@@ -1,6 +1,6 @@
-## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+# Class Information
+- Name: su
+- Certification: version system control  
 
 ## Instructions
 Please replace the placeholders with your details:
